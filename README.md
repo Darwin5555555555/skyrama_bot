@@ -17,10 +17,12 @@ Before running the bot, please ensure your setup matches the following strict re
 3. **Select Your Spot:** Select the plane spot (1 through 6) in the bot menu that corresponds to the slot you want to automate.
 
 **GUI Reference:**
-![SpeedService GUI](assets/image_6656c0.png)
+
+![SpeedService GUI](assets/ui.png)
 
 **In-Game Spot Reference:**
-![Game Slots](assets/image_664fa1.png)
+
+![Game Slots](assets/slots.png)
 
 4. **Set Your Game Mode:** The bot does not automatically toggle between tasks. You must **manually** switch the game UI depending on whether you want to:
    * Send out your own planes
